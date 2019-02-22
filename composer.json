@@ -1,0 +1,14 @@
+{
+    "name": "heijitaizi/composerdemo",
+    "description": "a demo by composer demo",
+    "type": "project",
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "Administrator",
+            "email": "120827976@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
