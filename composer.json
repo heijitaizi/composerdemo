@@ -1,7 +1,8 @@
 {
     "name": "heijitaizi/composerdemo",
-    "description": "a composer demo for test",
+    "description": "a composer demo by xiaoxu test",
     "type": "project",
+    "license": "mit",
     "authors": [
         {
             "name": "Administrator",
