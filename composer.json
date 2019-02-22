@@ -1,13 +1,13 @@
 {
     "name": "heijitaizi/composerdemo",
-    "description": "a composer demo for only test",
+    "description": "a composer demo for test",
     "type": "project",
-    "license": "dev",
     "authors": [
         {
             "name": "Administrator",
             "email": "120827976@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
